@@ -21,7 +21,7 @@ El proyecto se desarrolla bajo la metodología del **Marco Lógico**. Operativam
 
 ## Componentes y actividades
 
-[Consultar lista de Issues](
+[Consultar lista de Issues](https://github.com/Paula0327/Inseguridad_Alimentaria_Bogota/issues)
 
 ## Responsabilidades
 
