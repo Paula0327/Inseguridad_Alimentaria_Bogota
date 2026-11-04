@@ -1,6 +1,6 @@
 # 01 · Formulación
 
-**Proyecto:** Análisis de las causas de la inseguridad alimentaria y formulación de propuesta de intervención en los hogares de Bogotá.
+**Proyecto:** Inseguridad alimentaria en Bogotá.
 
 **Estado:** Consolidación de ficha técnica, delimitación poblacional y matriz de necesidades.
 
