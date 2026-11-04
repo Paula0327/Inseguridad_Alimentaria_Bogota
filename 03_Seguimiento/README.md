@@ -8,7 +8,7 @@
 
 ## Propósito
 
-Garantizar la transparencia, el rigor y la trazabilidad en la toma de decisiones metodológicas, registrando cronológicamente el uso de tecnologías de apoyo y el avance de los entregables[cite: 1, 2].
+Garantizar la transparencia, el rigor y la trazabilidad en la toma de decisiones metodológicas, registrando cronológicamente el uso de tecnologías de apoyo y el avance de los entregables.
 
 ## Insumos disponibles
 
