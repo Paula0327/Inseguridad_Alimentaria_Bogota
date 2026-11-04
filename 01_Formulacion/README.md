@@ -14,7 +14,7 @@ Organizar los elementos conceptuales y operativos que definen el alcance, el pro
 
 ### Documentos de diseño
 
-* [Ficha Consolidada del Proyecto (Versión 03)](./PRO_INSEG_ALIM_FICHA_20261013_v03.docx).
+* [Ficha Consolidada del Proyecto (Versión 03)](./PRO_INSEG_ALIM_FICHA_20261013_v03.pdf).
 * [Matriz de Necesidades de Información y Evidencia (Versión 02)](./PRO_INSEG_ALIM_MATRIZ_20261013_v02.xlsx).
 
 El contenido de esta carpeta estructura la ruta lógica del proyecto. Las definiciones metodológicas deben contrastarse de manera permanente con los hallazgos cuantitativos derivados de los microdatos oficiales.
