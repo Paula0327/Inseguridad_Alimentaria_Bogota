@@ -4,9 +4,9 @@
 
 ## Problema
 
-La inseguridad alimentaria constituye una situación en la que los hogares enfrentan dificultades para acceder de manera suficiente y adecuada a los alimentos. Para Bogotá, los resultados de la medición FIES del DANE muestran que la prevalencia de inseguridad alimentaria moderada o grave en los hogares pasó de 13,9 % en 2024 a 9,6 % en 2025. Aunque el indicador disminuyó, la cifra de 2025 evidencia la persistencia de esta problemática en un segmento significativo de la población urbana. El DANE también identifica diferencias asociadas con características socioeconómicas de los hogares, como la jefatura, el nivel educativo del jefe de hogar, la percepción de pobreza, la ocupación informal y el régimen de afiliación en salud.  
+La inseguridad alimentaria constituye una situación en la que los hogares enfrentan dificultades para acceder de manera suficiente y adecuada a los alimentos. En Bogotá D.C., la prevalencia de inseguridad alimentaria moderada o grave afectó al **9,6 % de los hogares en 2025** (según la medición FIES del DANE).
 
-Por tanto, el problema central es la persistencia de la inseguridad alimentaria moderada o grave en los hogares de Bogotá y la necesidad de identificar las condiciones socioeconómicas que se relacionan con ella para orientar una propuesta de intervención articulada con la oferta institucional vigente.
+El problema central es la persistencia de esta condición en un segmento significativo de la población urbana y la necesidad de identificar las características socioeconómicas (jefatura, informalidad, nivel educativo, régimen de salud) que se relacionan con ella para orientar una respuesta efectiva.
 
 ## Alternativa de intervención 
 
