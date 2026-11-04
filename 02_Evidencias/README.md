@@ -1,6 +1,6 @@
 # 02 · Evidencias
 
-**Proyecto:** Inseguridad alimentaria en Bogotá 
+**Proyecto:** Inseguridad alimentaria en Bogotá.
 
 **Estado:** Recopilación, estructuración y almacenamiento de fuentes y microdatos oficiales.
 
