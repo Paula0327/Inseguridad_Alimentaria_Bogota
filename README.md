@@ -40,7 +40,7 @@ El monitoreo de tareas, estados (Pendiente, En revisión, Validado, Listo) y ava
 * [Ficha consolidada de proyecto – Versión 03](01_Formulacion/PRO_INSEG_ALIM_FICHA_20261013_v03.pdf)
 * [Matriz de necesidades de información y evidencia - versión 02](01_Formulacion/PRO_INSEG_ALIM_MATRIZ_20261013_v02.xlsx)
 * [DANE - Boletín Técnico FIES 2025](https://www.dane.gov.co/files/operaciones/FIES/cp-FIES-2025.pdf).
-* [DANE - Encuesta Nacional de Calidad de Vida (ECV 2024)](https://www.dane.gov.co/index.php/estadisticas-por-tema/salud/calidad-de-vida-ecv/encuesta-nacional-de-calidad-de-vida-ecv-2024).
+* [DANE - Encuesta Nacional de Calidad de Vida (ECV 2024)](https://www.dane.gov.co/files/operaciones/ECV/bol-ECV-2024.pdf)
 * [DANE - Microdatos anonimizados ECV 2024](https://microdatos.dane.gov.co/index.php/catalog/861/get-microdata).
 
 ## Herramientas complementarias
