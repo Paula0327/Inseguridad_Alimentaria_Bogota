@@ -1,6 +1,6 @@
 # INSEGURIDAD ALIMENTARIA EN BOGOTÁ
 
-**Integrante:** Paula Juliana Ortiz Pulgarin - 3101400
+**Estudiante:** Paula Juliana Ortiz Pulgarin - 3101400
 
 ## Problema
 
