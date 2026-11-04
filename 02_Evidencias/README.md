@@ -1,6 +1,6 @@
 # 02 · Evidencias
 
-**Proyecto:** Análisis de las causas de la inseguridad alimentaria y formulación de propuesta de intervención en los hogares de Bogotá. 
+**Proyecto:** Inseguridad alimentaria en Bogotá 
 
 **Estado:** Recopilación, estructuración y almacenamiento de fuentes y microdatos oficiales.
 
