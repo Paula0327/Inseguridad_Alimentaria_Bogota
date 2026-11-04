@@ -1,6 +1,7 @@
 # 03 · Seguimiento
 
-**Proyecto:** Análisis de las causas de la inseguridad alimentaria y formulación de propuesta de intervención en los hogares de Bogotá.  
+**Proyecto:** Inseguridad alimentaria en Bogotá.  
+
 **Estado:** Trazabilidad metodológica y control de actividades.
 
 > Esta carpeta documenta el proceso de control, el uso regulado de herramientas auxiliares y la planeación de tareas para el desarrollo del proyecto.
