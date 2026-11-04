@@ -21,8 +21,34 @@ El proyecto se desarrolla bajo la metodología del **Marco Lógico**. Operativam
 
 ## Componentes y actividades
 
-[Consultar lista de Issues](https://github.com/Paula0327/Inseguridad_Alimentaria_Bogota/issues)
+Todas las actividades operativas, de verificación y gestión del proyecto se encuentran detalladas e individualizadas en el módulo de Issues
+
+* [Consultar lista de Issues](https://github.com/Paula0327/Inseguridad_Alimentaria_Bogota/issues)
 
 ## Responsabilidades
 
 * **Paula Juliana Ortiz Pulgarín:** Dirección general del proyecto, procesamiento de microdatos de la ECV/FIES DANE, articulación con la oferta distrital y consolidación de la estructura del Marco Lógico.
+
+## Seguimiento del proyecto
+
+El monitoreo de tareas, estados (Pendiente, En revisión, Validado, Listo) y avances se gestiona en el tablero institucional de GitHub Projects
+
+* [Tablero de seguimiento](https://github.com/users/Paula0327/projects/2)
+
+## Insumos disponibles
+
+*
+* [DANE - Boletín Técnico FIES 2025](https://www.dane.gov.co/files/operaciones/FIES/cp-FIES-2025.pdf).
+* [DANE - Encuesta Nacional de Calidad de Vida (ECV 2024)](https://www.dane.gov.co/index.php/estadisticas-por-tema/salud/calidad-de-vida-ecv/encuesta-nacional-de-calidad-de-vida-ecv-2024).
+* [DANE - Microdatos anonimizados ECV 2024](https://microdatos.dane.gov.co/index.php/catalog/861/get-microdata).
+
+## Herramientas complementarias
+
+* **Microsoft Excel:** Sistematización de la matriz de necesidades de información, fuentes y decisiones.
+* **Microsoft Word:** Consolidación conceptual y formulación del proyecto.
+* **GitHub:** Control de versiones, gestión de actividades mediante Issues y monitoreo institucional.
+
+## Decisiones pendientes
+
+1. **Cálculo de la población objetivo exacta:** Ejecutar el script/filtro sobre los microdatos de la ECV para consolidar la cifra única del perfil acumulado (estratos 1-2 + informalidad + dependencia).
+2. **Definición del mecanismo de articulación:** Precisar si la intervención se asociará a comedores comunitarios, bonos canjeables o transferencias de la SDIS. 
